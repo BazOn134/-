@@ -9,8 +9,8 @@ Imports System.Runtime.InteropServices
 ' Проверьте значения атрибутов сборки
 
 <Assembly: AssemblyTitle("Последовательный выбор файла")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Программа производит выбор файла последовательно предоставляя пользователю список  подпапок выбранной папки.")>
+<Assembly: AssemblyCompany("Зальцман А.В.")>
 <Assembly: AssemblyProduct("Последовательный выбор файла")>
 <Assembly: AssemblyCopyright("Copyright ©  2021")>
 <Assembly: AssemblyTrademark("")>
